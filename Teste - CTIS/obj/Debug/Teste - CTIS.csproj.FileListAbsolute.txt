@@ -1,0 +1,217 @@
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\ApplicationInsights.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Teste - CTIS.dll.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Teste - CTIS.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Teste - CTIS.pdb
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csc.exe
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csc.exe.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csc.rsp
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csi.exe
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csi.exe.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\csi.rsp
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.AppContext.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Console.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.IO.Compression.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Claims.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.ValueTuple.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\vbc.exe
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\vbc.exe.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\vbc.rsp
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\VBCSCompiler.exe
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Antlr3.Runtime.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.Web.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Newtonsoft.Json.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Net.Http.Formatting.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Helpers.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Http.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Http.WebHost.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Mvc.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Optimization.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Razor.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.Razor.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\WebGrease.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Newtonsoft.Json.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Net.Http.Formatting.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Helpers.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Http.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Http.WebHost.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Mvc.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Optimization.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.Razor.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Web.WebPages.Razor.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Antlr3.Runtime.pdb
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.AI.Web.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\obj\Debug\Teste - CTIS.csprojAssemblyReference.cache
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\obj\Debug\Teste - CTIS.csproj.CoreCompileInputs.cache
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\obj\Debug\Teste - CTIS.csproj.CopyComplete
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\obj\Debug\Teste - CTIS.dll
+C:\Users\luizc\Documents\PROJETOS\Teste - CTIS\Teste - CTIS\obj\Debug\Teste - CTIS.pdb
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\ApplicationInsights.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Teste - CTIS.dll.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Teste - CTIS.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Teste - CTIS.pdb
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csc.exe
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csc.exe.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csc.rsp
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csi.exe
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csi.exe.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\csi.rsp
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.AppContext.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Console.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.IO.Compression.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Claims.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Threading.Thread.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.ValueTuple.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\vbc.exe
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\vbc.exe.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\vbc.rsp
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\VBCSCompiler.exe
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Antlr3.Runtime.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.Web.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Newtonsoft.Json.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Net.Http.Formatting.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Helpers.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Http.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Http.WebHost.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Mvc.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Optimization.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Razor.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.Razor.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\WebGrease.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Newtonsoft.Json.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Net.Http.Formatting.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Helpers.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Http.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Http.WebHost.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Mvc.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Optimization.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.Razor.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Web.WebPages.Razor.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Antlr3.Runtime.pdb
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.AI.Web.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\obj\Debug\Teste - CTIS.csprojResolveAssemblyReference.cache
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\obj\Debug\Teste - CTIS.csproj.CoreCompileInputs.cache
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\obj\Debug\Teste - CTIS.dll
+C:\Users\luiz.santos\Documents\Teste\Teste - CTIS\obj\Debug\Teste - CTIS.pdb
